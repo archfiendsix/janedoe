@@ -1,0 +1,40 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+ENV/
+.env
+
+# Chrome driver
+drivers/
+
+# Downloaded files
+downloads/
+
+
+# Miscellaneous
+*.swp
+.DS_Store
+.idea/
+*.exe
+*.iso
+
+allure-results/
+allure-report/
+docs/
+sessions/
+sample.json
+
+# Files to large for repo
+fixtures/gparted.iso
+fixtures/music.mp3
+fixtures/upload_files/gparted.iso
+fixtures/upload_files/music.mp3
+report_allure
+config.json
+
